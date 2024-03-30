@@ -1,7 +1,7 @@
 app_name = "dsserp"
-app_title = "DssERP"
+app_title = "Dsserp"
 app_publisher = "alex"
-app_description = "DSS"
+app_description = "DssERP"
 app_email = "alexbenny94@gmail.com"
 app_license = "mit"
 # required_apps = []

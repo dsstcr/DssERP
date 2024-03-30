@@ -3,7 +3,7 @@ name = "dsserp"
 authors = [
     { name = "alex", email = "alexbenny94@gmail.com"}
 ]
-description = "DSS"
+description = "DssERP"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
